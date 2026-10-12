@@ -327,16 +327,5 @@ Every technical event is an opportunity to discover new ideas. The real value co
 **Learn continuously. Experiment thoughtfully. Build practically.**
 
 ---
-
-### Suggested Visuals for This Article
-
-To make this Notion page more engaging, place visuals alongside the relevant sections:
-
-1. **Cover image:** A Gemini-inspired banner titled *Monday Funday with Gemini*.
-2. **Interface overview:** A screenshot of the Gemini interface from your workshop notes.
-3. **Feature overview:** A visual comparison of Canvas, Deep Research, Guided Learning, and Notebook.
-4. **Notebook workflow:** A diagram showing how learning resources can be organized and used.
-5. **PARTS framework:** An infographic explaining Persona, Aim, Recipients, Theme, and Structure.
-6. **Human-in-the-loop workflow:** A diagram showing Prompt → AI Output → Human Review → Improved Result.
-
-Use your original workshop screenshots wherever possible so that the article reflects the actual features and demonstrations you experienced.
+By,
+Tanmay udiya
